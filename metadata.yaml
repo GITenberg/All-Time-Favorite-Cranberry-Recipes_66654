@@ -1,0 +1,29 @@
+_repo: All-Time-Favorite-Cranberry-Recipes_66654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2021-11-02'
+identifiers:
+  gutenberg: '66654'
+language: en
+pgterms:marc905: 20191109134709anonymous
+pgterms:marc906: '1970'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :Ocean Spray Cranberries, Inc.,1970,reprint 1985.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: All-Time Favorite Cranberry Recipes
+url: http://www.gutenberg.org/ebooks/66654
