@@ -1,5 +1,8 @@
 _repo: All-Time-Favorite-Cranberry-Recipes_66654
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66654-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - https://en.wikipedia.org/wiki/Anonymous_work
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66654#All-Time-Favorite-Cranberry-Recipes
 gutenberg_issued: '2021-11-02'
 identifiers:
   gutenberg: '66654'
